@@ -98,14 +98,6 @@ Creating modern web applications with cutting-edge technologies
 
 </div>
 
-## 💰 Support My Work
-
-<div align="center">
-
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com)
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me)
-
-</div>
 
 ---
 
@@ -119,6 +111,6 @@ Creating modern web applications with cutting-edge technologies
 
 ### Let's create something amazing together! 🚀
 
-![Visitor Count](https://profile-counter.glitch.me/CAQuan04/count.svg)
+
 
 </div>
