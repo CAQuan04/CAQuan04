@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @CAQuan04
-
-<!---
-CAQuan04/CAQuan04 is a ✨ special ✨ repository because its `# Hi, I'm CAQuan04! 👋
+# Hi, I'm CAQuan04! 👋
 
 I am a passionate developer focused on building innovative solutions and sharing knowledge with the community.
 
@@ -66,6 +63,4 @@ I'm always interested in collaborating on exciting projects and learning from th
 
 Thanks for stopping by! Feel free to check out my projects and connect with me.
 
-Let's create something amazing together! 🚀` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let's create something amazing together! 🚀
